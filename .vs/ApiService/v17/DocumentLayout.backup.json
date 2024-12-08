@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\learn\\Myapp\\ApiService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|f:\\c#\\learn\\myapp\\apiservice\\apiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|f:\\c#\\learn\\myapp\\apiservice\\apiservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|f:\\c#\\learn\\myapp\\apiservice\\apiservice\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|f:\\c#\\learn\\myapp\\apiservice\\apiservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|f:\\c#\\learn\\myapp\\apiservice\\apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|f:\\c#\\learn\\myapp\\apiservice\\apiservice\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E4E0B7-618B-49DF-90A8-CEC09CAD8914}|ApiService\\ApiService.csproj|solutionrelative:apiservice\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ApiService\\Data\\DataContext.cs",
+              "ToolTip": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Data\\DataContext.cs",
+              "RelativeToolTip": "ApiService\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:51:43.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ApiService\\Services\\JwtService.cs",
+              "ToolTip": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Services\\JwtService.cs",
+              "RelativeToolTip": "ApiService\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:39:01.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ApiService\\Services\\UserService.cs",
+              "ToolTip": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Services\\UserService.cs",
+              "RelativeToolTip": "ApiService\\Services\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:47:35.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiService\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:34:52.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "ApiService\\Program.cs",
+              "ToolTip": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Program.cs",
+              "RelativeToolTip": "ApiService\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:42:08.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "ApiService\\Models\\RegisterRequest.cs",
+              "ToolTip": "F:\\C#\\learn\\Myapp\\ApiService\\ApiService\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "ApiService\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:31:55.01Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
